@@ -1,0 +1,143 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "AM",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "pubkey",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "timestamp",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "AM%20Entries",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "gratitude",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "feelings",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "intentions",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "selfCompassion",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "focus",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "publicKey",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "timestamp",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "Freewrite",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "freeWrite",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "timestamp",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "Freewrite%20Entries",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "freeWrite",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "publicKey",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "timestamp",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "PM",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "pubkey",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "timestamp",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "PM Entries",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "publicKey",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "timestamp",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "PM%20Entries",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "accomplishments",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "challenges",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "compassion",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "whatILearned",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "intentionsForTomorrow",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "publicKey",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ],
+  "fieldOverrides": []
+}
