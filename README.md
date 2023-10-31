@@ -1,6 +1,6 @@
 # solo: journal
 
-this app is under construction. feedback highly encouraged. 
+this app is under construction. feedback highly encouraged.
 
 ## Getting Started
 
