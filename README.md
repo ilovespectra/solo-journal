@@ -2,6 +2,16 @@
 
 this app is under construction. feedback highly encouraged.
 
+solo: journal is a private place to write. your entries are logged with your pubkey, which is used to filter the entries search function. this means only
+you can see the content you write. solo: explorer is under construction, and will
+enable trading notes and more. 
+
+# to-do
+
+  - complete explorer
+  - tie explorer to journal
+  - create-your-own journal template 
+
 ## Getting Started
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
