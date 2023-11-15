@@ -10,9 +10,9 @@ enable trading notes and more.
 
 # to-do
 
-  - complete explorer
-  - tie explorer to journal
-  - create-your-own journal template 
+  - [x] complete explorer
+  - [ ] tie explorer to journal
+  - [ ] create-your-own journal template 
 
 ## Getting Started
 
